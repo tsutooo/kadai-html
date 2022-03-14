@@ -11,6 +11,7 @@ body{
 
 header{
   background-color:#ffcccc;
+  width:1000px;
    
 }
 
@@ -30,5 +31,6 @@ header{
 
 footer{
   background-color:#ffccff;
+  width:1000px;
 }
 
